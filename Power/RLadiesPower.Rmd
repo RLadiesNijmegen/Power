@@ -12,6 +12,31 @@ bibliography: replicability.bib
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## Intro Comments
+
+1.  Welcome!  What is R Ladies?
+
+R Ladies global is an organization that tries to combat gender inequity in the stats world.  
+
+https://rladies.org/
+
+Why?
+The R community suffers from an underrepresentation of minority genders (including but not limited to cis/trans women, trans men, non-binary, genderqueer, agender) in every role and area of participation, whether as leaders, package developers, conference speakers, conference participants, educators, or users (see recent stats).
+
+As a diversity initiative, the mission of R-Ladies is to achieve proportionate representation by encouraging, inspiring, and empowering people of genders currently underrepresented in the R community. R-Ladies’ primary focus, therefore, is on supporting minority gender R enthusiasts to achieve their programming potential, by building a collaborative global network of R leaders, mentors, learners, and developers to facilitate individual and collective progress worldwide.
+
+## Intro Comments
+
+2. There are many Dutch chapters-- check out RLadies Global!
+
+New chapter! R Ladies Den Bosch
+
+<img src="RDB.png" alt="RLadiesDB" width=80%/> 
+
+## Intro Comments
+
+3.  We are looking for a couple new organizers!  Come talk to us after!
+
 ## What is power?
 
 Let's start out with some nuts and bolts!
